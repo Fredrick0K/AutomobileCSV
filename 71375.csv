@@ -1,0 +1,67 @@
+SEXO;EDAD;TIPO DE ACCIDENTE;SI O NO;Total
+AMBOS SEXOS;TOTAL;Accidente en casa;TOTAL;48.329,0
+AMBOS SEXOS;TOTAL;Accidente en tiempo libre;TOTAL;48.329,0
+AMBOS SEXOS;De 0 a 4 años;Accidente en casa;TOTAL;1.741,6
+AMBOS SEXOS;De 0 a 4 años;Accidente en tiempo libre;TOTAL;1.741,6
+AMBOS SEXOS;De 5 a 14 años;Accidente en casa;TOTAL;4.658,1
+AMBOS SEXOS;De 5 a 14 años;Accidente en tiempo libre;TOTAL;4.658,1
+AMBOS SEXOS;De 15 a 24 años;Accidente en casa;TOTAL;5.239,5
+AMBOS SEXOS;De 15 a 24 años;Accidente en tiempo libre;TOTAL;5.239,5
+AMBOS SEXOS;De 25 a 34 años;Accidente en casa;TOTAL;5.445,6
+AMBOS SEXOS;De 25 a 34 años;Accidente en tiempo libre;TOTAL;5.445,6
+AMBOS SEXOS;De 35 a 44 años;Accidente en casa;TOTAL;6.657,3
+AMBOS SEXOS;De 35 a 44 años;Accidente en tiempo libre;TOTAL;6.657,3
+AMBOS SEXOS;De 45 a 54 años;Accidente en casa;TOTAL;7.939,8
+AMBOS SEXOS;De 45 a 54 años;Accidente en tiempo libre;TOTAL;7.939,8
+AMBOS SEXOS;De 55 a 64 años;Accidente en casa;TOTAL;6.862,4
+AMBOS SEXOS;De 55 a 64 años;Accidente en tiempo libre;TOTAL;6.862,4
+AMBOS SEXOS;De 65 a 74 años;Accidente en casa;TOTAL;4.988,6
+AMBOS SEXOS;De 65 a 74 años;Accidente en tiempo libre;TOTAL;4.988,6
+AMBOS SEXOS;De 75 a 84 años;Accidente en casa;TOTAL;3.298,2
+AMBOS SEXOS;De 75 a 84 años;Accidente en tiempo libre;TOTAL;3.298,2
+AMBOS SEXOS;De 85 y más años;Accidente en casa;TOTAL;1.497,4
+AMBOS SEXOS;De 85 y más años;Accidente en tiempo libre;TOTAL;1.497,4
+Hombres;TOTAL;Accidente en casa;TOTAL;23.683,9
+Hombres;TOTAL;Accidente en tiempo libre;TOTAL;23.683,9
+Hombres;De 0 a 4 años;Accidente en casa;TOTAL;895,1
+Hombres;De 0 a 4 años;Accidente en tiempo libre;TOTAL;895,1
+Hombres;De 5 a 14 años;Accidente en casa;TOTAL;2.397,5
+Hombres;De 5 a 14 años;Accidente en tiempo libre;TOTAL;2.397,5
+Hombres;De 15 a 24 años;Accidente en casa;TOTAL;2.696,7
+Hombres;De 15 a 24 años;Accidente en tiempo libre;TOTAL;2.696,7
+Hombres;De 25 a 34 años;Accidente en casa;TOTAL;2.759,2
+Hombres;De 25 a 34 años;Accidente en tiempo libre;TOTAL;2.759,2
+Hombres;De 35 a 44 años;Accidente en casa;TOTAL;3.322,7
+Hombres;De 35 a 44 años;Accidente en tiempo libre;TOTAL;3.322,7
+Hombres;De 45 a 54 años;Accidente en casa;TOTAL;3.983,7
+Hombres;De 45 a 54 años;Accidente en tiempo libre;TOTAL;3.983,7
+Hombres;De 55 a 64 años;Accidente en casa;TOTAL;3.351,7
+Hombres;De 55 a 64 años;Accidente en tiempo libre;TOTAL;3.351,7
+Hombres;De 65 a 74 años;Accidente en casa;TOTAL;2.340,2
+Hombres;De 65 a 74 años;Accidente en tiempo libre;TOTAL;2.340,2
+Hombres;De 75 a 84 años;Accidente en casa;TOTAL;1.445,6
+Hombres;De 75 a 84 años;Accidente en tiempo libre;TOTAL;1.445,6
+Hombres;De 85 y más años;Accidente en casa;TOTAL;491,1
+Hombres;De 85 y más años;Accidente en tiempo libre;TOTAL;491,1
+Mujeres;TOTAL;Accidente en casa;TOTAL;24.645,0
+Mujeres;TOTAL;Accidente en tiempo libre;TOTAL;24.645,0
+Mujeres;De 0 a 4 años;Accidente en casa;TOTAL;846,4
+Mujeres;De 0 a 4 años;Accidente en tiempo libre;TOTAL;846,4
+Mujeres;De 5 a 14 años;Accidente en casa;TOTAL;2.260,5
+Mujeres;De 5 a 14 años;Accidente en tiempo libre;TOTAL;2.260,5
+Mujeres;De 15 a 24 años;Accidente en casa;TOTAL;2.542,8
+Mujeres;De 15 a 24 años;Accidente en tiempo libre;TOTAL;2.542,8
+Mujeres;De 25 a 34 años;Accidente en casa;TOTAL;2.686,4
+Mujeres;De 25 a 34 años;Accidente en tiempo libre;TOTAL;2.686,4
+Mujeres;De 35 a 44 años;Accidente en casa;TOTAL;3.334,6
+Mujeres;De 35 a 44 años;Accidente en tiempo libre;TOTAL;3.334,6
+Mujeres;De 45 a 54 años;Accidente en casa;TOTAL;3.956,1
+Mujeres;De 45 a 54 años;Accidente en tiempo libre;TOTAL;3.956,1
+Mujeres;De 55 a 64 años;Accidente en casa;TOTAL;3.510,7
+Mujeres;De 55 a 64 años;Accidente en tiempo libre;TOTAL;3.510,7
+Mujeres;De 65 a 74 años;Accidente en casa;TOTAL;2.648,3
+Mujeres;De 65 a 74 años;Accidente en tiempo libre;TOTAL;2.648,3
+Mujeres;De 75 a 84 años;Accidente en casa;TOTAL;1.852,6
+Mujeres;De 75 a 84 años;Accidente en tiempo libre;TOTAL;1.852,6
+Mujeres;De 85 y más años;Accidente en casa;TOTAL;1.006,2
+Mujeres;De 85 y más años;Accidente en tiempo libre;TOTAL;1.006,2
